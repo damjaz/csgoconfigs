@@ -6,6 +6,3 @@ Optional
     
     -maxplayers_override 40
 
-#Keymap
-
-![Keymap](/cskeyboard.png?raw=true)
